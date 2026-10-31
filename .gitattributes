@@ -1,0 +1,12 @@
+build/* linguist-vendored  
+
+*.woff2 binary
+*.py linguist-detectable 
+*.png binary
+*.jpg binary
+
+*.woff binary
+*.svg text   
+vendor/* linguist-vendored
+*.htm linguist-vendored
+*.html linguist-vendored
