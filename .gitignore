@@ -1,0 +1,9 @@
+venv/
+.pytest_cache/
+*.egg-info/
+*.py[cod]
+htmlcov/
+.coverage
+.tox/
+env/
+dist/
